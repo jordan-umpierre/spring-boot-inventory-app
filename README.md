@@ -109,6 +109,3 @@ Manual smoke test checklist:
 
 Local H2 database files and generated IDE exports are intentionally ignored so the repository stays lightweight and reproducible.
 
-## Resume Bullet
-
-Built a Spring Boot inventory management web app with Thymeleaf, Spring Data JPA, H2 persistence, searchable inventory screens, part/product association workflows, purchase-driven inventory updates, and validation rules for min/max stock constraints.
